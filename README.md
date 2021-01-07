@@ -1,2 +1,2 @@
-# Auto-Comments-on-youtube-using-typescripts-
-Auto Comments on youtube using typescripts 
+# Auto-Comments-on-youtube-using-Appscripts-
+Auto Comments on youtube using Appscripts 
